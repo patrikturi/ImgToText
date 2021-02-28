@@ -1,0 +1,4 @@
+*.jpg
+virtualenv/
+env.sh
+gcp.json
